@@ -1,7 +1,7 @@
 # BatchVideoProgram
 Windows program that splices videos in batch based on a txt file.
 
-Txt File Format:
+Txt File Format
 '''
 input_file,start,stop,output_file
 input_file,start,stop,output_file
